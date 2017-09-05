@@ -96,7 +96,7 @@ Run the test again.
     1) Failure:
     HelloWorldTest#test_no_name [hello_world_test.rb:11]:
     When given no name, we should greet the world!.
-    Expected: "Hello, world!"
+    Expected: "Hello, World!"
       Actual: nil
 
 Up until now we've been getting errors, this time we get a failure.
